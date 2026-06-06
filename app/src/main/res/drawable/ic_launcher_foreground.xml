@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer radar target circle in vibrant Electric Cyan -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,23 C71.12,23 85,36.88 85,54 C85,71.12 71.12,85 54,85 C36.88,85 23,71.12 23,54 C23,36.88 36.88,23 54,23 Z M54,29 C39.9,29 28.5,40.4 28.5,54 C28.5,67.6 39.9,79 54,79 C68.1,79 79.5,67.6 79.5,54 C79.5,40.4 68.1,29 54,29 Z"
+        android:fillType="nonZero" />
+    
+    <!-- Spark ascending line tracing progress up to the bullseye target -->
+    <path
+        android:fillColor="#00D2C4"
+        android:pathData="M31,73 L43,58 L54,67 L73,43 L76,46 L54,74 L43,64 L33,76 Z"
+        android:fillType="nonZero" />
+
+    <!-- Center target victory star -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,43 L56,48.5 L61.5,48.5 L57,51.8 L58.8,57.3 L54,54 L49.2,57.3 L51,51.8 L46.5,48.5 L52,48.5 Z" />
+</vector>

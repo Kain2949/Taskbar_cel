@@ -1,0 +1,6 @@
+{
+  "name": "Goal Tracker",
+  "description": "Minimalist, monolithic dark themed daily goal tracking and forecasting application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
